@@ -35,16 +35,20 @@ Founder of **ZuluTech**, creator of **Fairness Inspector**, and builder of platf
 
 ---
 
-## 🔐 App Features
+## 🛠️ App Features
 
-- OTP login with Firebase  
-- Modular Flutter widgets & shimmer animations  
-- Currency dropdown & mock transaction feed  
-- Narrative UI elements that build trust
+- 🔐 OTP login via Firebase  
+- 🧩 Modular Flutter widgets & shimmer animations  
+- 💱 Currency dropdown & transaction feed  
+- 🤝 Narrative UI to build trust  
 
-![Login Screen](assets/ui_mockups/login_screen.png)  
-![Dashboard](assets/ui_mockups/dashboard_view.png)  
+<p align="center">
+  <img src="assets/ui_mockup/login_screen.png" alt="Login Screen" width="300"/>
+  <img src="assets/ui_mockup/dashboard_view.png" alt="Dashboard View" width="300"/>
+</p>
+
 ![Animated Success](assets/Send-money-successful.png)
+
 
 
 ---
@@ -84,12 +88,12 @@ Founder of **ZuluTech**, creator of **Fairness Inspector**, and builder of platf
 
 ---
 
-...
 ## 🔗 Explore My World
 
 🌐 [Portfolio Website](https://leonardphokane.netlify.app)  
 👨‍💻 [GitHub Profile](https://github.com/leonardphokane)  
 📁 [Padlet Showcase](https://padlet.com/leonardphokane/zulutech-send-money-showcase)
+
 
 ---
 
