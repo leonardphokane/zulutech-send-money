@@ -51,7 +51,6 @@ Founder of **ZuluTech**, creator of **Fairness Inspector**, and builder of platf
 
 
 
-
 ---
 
 ## 📈 Demo Flow
@@ -91,9 +90,12 @@ Founder of **ZuluTech**, creator of **Fairness Inspector**, and builder of platf
 
 ## 🔗 Explore My World
 
-🌐 [Portfolio Website](https://leonardphokane.netlify.app)  
+🌐 [Portfolio Website](https://phokane-creative-code.lovable.app)  
 👨‍💻 [GitHub Profile](https://github.com/leonardphokane)  
 📁 [Padlet Showcase](https://padlet.com/leonardphokane/zulutech-send-money-showcase)
+
+
+> Discover projects, principles, and pixels that echo purpose.
 
 
 ---
