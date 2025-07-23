@@ -47,7 +47,8 @@ Founder of **ZuluTech**, creator of **Fairness Inspector**, and builder of platf
   <img src="assets/ui_mockup/dashboard_view.png" alt="Dashboard View" width="300"/>
 </p>
 
-![Animated Success](assets/Send-money-successful.png)
+![Animated Success](assets/ui_mockup/Send-money-successful.png)
+
 
 
 
