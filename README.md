@@ -1,5 +1,5 @@
 # 🧭 Who is Leonard Phokane?
-# 🧭 Who is Leonard Phokane?
+
 
 ![flutter](https://img.shields.io/badge/flutter-ready-blue)
 ![version](https://img.shields.io/badge/version-1.0.0-green)
@@ -12,7 +12,7 @@
 
 ![Leonard Phokane – Developer Profile](assets/profile-pic.png)
 
-> *“From village chalkboards to fairness algorithms, my story is proof that purpose fuels progress — and code becomes legacy.”*
+
 
 > *“From village chalkboards to fairness algorithms, my story is proof that purpose fuels progress — and code becomes legacy.”*
 
