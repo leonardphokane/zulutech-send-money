@@ -44,7 +44,8 @@ Founder of **ZuluTech**, creator of **Fairness Inspector**, and builder of platf
 
 ![Login Screen](assets/ui_mockups/login_screen.png)  
 ![Dashboard](assets/ui_mockups/dashboard_view.png)  
-![Success Animation](assets/ui_mockups/animated_success.gif)
+![Animated Success](assets/Send-money-successful.png)
+
 
 ---
 
@@ -85,9 +86,10 @@ Founder of **ZuluTech**, creator of **Fairness Inspector**, and builder of platf
 
 ...
 ## 🔗 Explore My World
-🌐 [Portfolio Website](...)  
-👨‍💻 [GitHub Profile](...)  
-📁 [Padlet Showcase](...)
+
+🌐 [Portfolio Website](https://leonardphokane.netlify.app)  
+👨‍💻 [GitHub Profile](https://github.com/leonardphokane)  
+📁 [Padlet Showcase](https://padlet.com/leonardphokane/zulutech-send-money-showcase)
 
 ---
 
