@@ -1,4 +1,18 @@
 # 🧭 Who is Leonard Phokane?
+# 🧭 Who is Leonard Phokane?
+
+![flutter](https://img.shields.io/badge/flutter-ready-blue)
+![version](https://img.shields.io/badge/version-1.0.0-green)
+![platform](https://img.shields.io/badge/platform-cross--platform-yellow)
+![plpcommunity](https://img.shields.io/badge/PLPCommunity-purple)
+![branding](https://img.shields.io/badge/branding-ZuluTech-orange)
+![focus](https://img.shields.io/badge/focus-ethical--tech-red)
+![send money functional build week 7](https://img.shields.io/badge/send%20money%20functional%20build%20week%207-green)
+![power learn project](https://img.shields.io/badge/power%20learn%20project-red)
+
+![Leonard Phokane – Developer Profile](assets/profile-pic.png)
+
+> *“From village chalkboards to fairness algorithms, my story is proof that purpose fuels progress — and code becomes legacy.”*
 
 > *“From village chalkboards to fairness algorithms, my story is proof that purpose fuels progress — and code becomes legacy.”*
 
@@ -64,12 +78,40 @@ Founder of **ZuluTech**, creator of **Fairness Inspector**, and builder of platf
 
 ---
 
-# 🔗 Explore My World
+...
+## 🔗 Explore My World
+🌐 [Portfolio Website](...)  
+👨‍💻 [GitHub Profile](...)  
+📁 [Padlet Showcase](...)
 
-- 🌐 [Portfolio Website](https://phokane-creative-code.lovable.app)  
-- 👨‍💻 [GitHub Profile](https://github.com/leonardphokane)  
-- 💼 [LinkedIn](https://linkedin.com/in/leonardphokane)  
-- 📁 [Padlet Showcase](https://padlet.com/plp9/my-distinguished-padlet-obiq9mj5yr6u1mxo)
+---
+
+## 🛠️ Full-Stack Web Development – MERN & Beyond
+
+![Full-Stack MERN Mastery](assets/fullstack_mern.png)  
+*Leonard's journey into the MERN ecosystem via PLP Academy.*
+
+Leonard Phokane is a certified Full-Stack Developer with hands-on training in the MERN Stack:
+
+| Technology   | Role                         |
+|--------------|------------------------------|
+| MongoDB      | NoSQL database for app data  |
+| Express.js   | Backend API and routing      |
+| React.js     | Dynamic UI & front-end logic |
+| Node.js      | Server-side architecture     |
+
+He’s built scalable applications using **Socket.io**, secure auth with **JWT**, and deployed using GitHub workflows, **Vercel**, and **Heroku**.
+
+🧪 Learned:
+- Data modeling & RESTful APIs  
+- Real-time communication (Socket.io)  
+- Deployment & DevOps fundamentals  
+- Testing & debugging workflows
+
+📈 Course: [PLP Full-Stack MERN Program](https://academy.powerlearnprojectafrica.org/module/679733b84362787f89c8a6f9)
+
+> *“I build from the server to the shimmer — from logic layers to legacy animations.”*
+
 
 ---
 
