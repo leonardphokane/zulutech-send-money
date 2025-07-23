@@ -1,6 +1,4 @@
 # 🧭 Who is Leonard Phokane?
-
-
 ![flutter](https://img.shields.io/badge/flutter-ready-blue)
 ![version](https://img.shields.io/badge/version-1.0.0-green)
 ![platform](https://img.shields.io/badge/platform-cross--platform-yellow)
@@ -11,7 +9,6 @@
 ![power learn project](https://img.shields.io/badge/power%20learn%20project-red)
 
 ![Leonard Phokane – Developer Profile](assets/profile-pic.png)
-
 
 
 > *“From village chalkboards to fairness algorithms, my story is proof that purpose fuels progress — and code becomes legacy.”*
@@ -53,7 +50,8 @@ Founder of **ZuluTech**, creator of **Fairness Inspector**, and builder of platf
 
 ## 📈 Demo Flow
 
-![Demo Flowchart](doc/demo_flowchart.png)
+![Demo Flowchart](doc/demo_flowchart.png)  
+*OTP-based login leading to secure dashboard access.*
 
 - Enter: `demo@zulutech.co.za`  
 - Tap **Send OTP**  
@@ -61,11 +59,18 @@ Founder of **ZuluTech**, creator of **Fairness Inspector**, and builder of platf
 
 ---
 
+![FNB Submission Receipt Screenshot](assets/fnb_submission_receipt_screenshot.png)  
+*ZuluTech Send Money entry confirmed for 2025 FNB App of the Year — Best Financial Solution & South African Innovation.*
+
+---
+
 ## 📘 Supporting Documents
 
-- [Merged Canva PDF + README](doc/merged_canva_readme.pdf)  
-- [Ethics Manifesto Card](doc/ethics_manifesto_card.jpg)  
-- [FNB Submission Receipt](doc/FNB_submission_receipt.pdf)
+- 📄 [Who is Leonard Phokane – Compressed PDF](doc/Who is Leonard Phokane_compressed.pdf)  
+- 💸 [ZuluTech Send Money – Merged Canva README](doc/merged_canva_readme.pdf)  
+- 🧾 [FNB App of the Year – Submission Receipt Screenshot](assets/fnb_submission_receipt_screenshot.png)  
+- 🧭 ![Ethics Manifesto](doc/ethics_manifesto_card.png)  
+  *A visual commitment to fairness, inclusion, and responsible innovation.*
 
 ---
 
@@ -112,7 +117,10 @@ He’s built scalable applications using **Socket.io**, secure auth with **JWT**
 
 > *“I build from the server to the shimmer — from logic layers to legacy animations.”*
 
-
+<p align="center">
+  <img src="assets/plp_logo.png" alt="PLP Logo" width="120"/>
+  <img src="assets/plpcommunity.png" alt="PLP Community Banner" width="120"/>
+</p>
 ---
 
 ## 🪶 License
