@@ -43,11 +43,12 @@ Founder of **ZuluTech**, creator of **Fairness Inspector**, and builder of platf
 - 🤝 Narrative UI to build trust  
 
 <p align="center">
-  <img src="assets/ui_mockup/login_screen.png" alt="Login Screen" width="300"/>
-  <img src="assets/ui_mockup/dashboard_view.png" alt="Dashboard View" width="300"/>
+  <img src="assets/ui_mockup/login_screen.png" alt="Login Screen" width="250"/>
+  <img src="assets/ui_mockup/dashboard_view.png" alt="Dashboard View" width="250"/>
+  <img src="assets/ui_mockup/Send-money-successful.png" alt="Successful View" width="180"/>
 </p>
 
-![Animated Success](assets/ui_mockup/Send-money-successful.png)
+
 
 
 
